@@ -1,0 +1,9 @@
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\bin\Debug\LessonA.exe.config
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\bin\Debug\LessonA.exe
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\bin\Debug\LessonA.pdb
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.csprojResolveAssemblyReference.cache
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.Form1.resources
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.Properties.Resources.resources
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.csproj.GenerateResource.Cache
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.exe
+C:\work\VisualStudio\新人研修用\LessonA\LessonA\obj\Debug\LessonA.pdb
